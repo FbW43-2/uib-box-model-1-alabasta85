@@ -1,0 +1,28 @@
+.box {
+  width: 95%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.box.inner {
+  height: 60px;
+
+  line-height: 70px;
+}
+
+.background-grey {
+  background-color: lightgray;
+}
+
+.background-red {
+  background-color: tomato;
+}
+
+.background-yellow {
+  background-color: yellowgreen;
+}
+
+.border-dashed {
+  border: dashed 3px gray;
+}
